@@ -1,0 +1,13 @@
+English Diceware Word List — License Notice
+============================================
+
+Copyright © 1995-2004 Arnold G. Reinhold, Cambridge, Mass. USA.
+
+The author hereby grants rights for free, non-commercial, distribution
+of this entire text with attribution. All other rights reserved.
+Reasonable requests for other uses, such as translations, are encouraged
+and will be carefully and promptly considered.
+
+Rev. 2004-3-3
+
+Source: https://theworld.com/~reinhold/diceware.html

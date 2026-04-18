@@ -1,0 +1,17 @@
+Copyright (c) 2004, 2016 by Matthieu Weber pour la mise en page et la
+traduction. Copyright (c) 1995, 2000 by Arnold Reinhold pour la page de garde.
+Copyright (c) 2012 by Christophe-Marie Duquesne pour la liste de mots,
+disponible sur \url{https://github.com/chmduquesne/diceware-fr/}, distribu�e
+sous licence CC-BY-3.0. Le document original est disponible sur
+\url{http://world.std.com/~reinhold/diceware.html}. Ce document peut �tre
+librement copi� et distribu�. Les modifications sont autoris�es sous r�serve
+que le document original et son auteur soient mentionn�s sur la version
+modifi�e.
+\clearpage
+
+Dans leur rapport de f�vrier 1996 intitul� �~Longueur de cl� minimum des
+algorithmes de chiffrement pour une s�curit� ad�quate en environnement
+commercial~�, un group de cryptographes et experts en s�curit� informatique
+(Matt Blaze, Whitfield Diffie, Ronald Rivest, Bruce Schneier, Tsutomo
+Shimomura, Eric Thompson, et Michael Weiner) d�claraient~:
+
